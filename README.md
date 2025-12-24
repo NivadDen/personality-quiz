@@ -61,5 +61,13 @@ Update CSS in App.css for styling changes
 
 <img width="763" height="686" alt="Screenshot 2025-12-24 at 12 43 54 AM" src="https://github.com/user-attachments/assets/9521554b-13fb-435d-86cc-75a50055bc34" />
 
+<img width="688" height="492" alt="Screenshot 2025-12-24 at 12 45 24 AM" src="https://github.com/user-attachments/assets/de72f4ec-a9de-4900-a5de-873a47d919ef" />
+
+<img width="601" height="410" alt="Screenshot 2025-12-24 at 12 45 28 AM" src="https://github.com/user-attachments/assets/3720ba67-a423-43b8-bf89-f4f93f7d4f3f" />
+
+
+
+
+
 
 
